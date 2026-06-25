@@ -15,7 +15,6 @@ SocialSync is an AI-powered social media managemnt platform that helps creators,
 
 #️⃣ AI Hashtag Suggestions – Get relevant hashtags to improve reach and engagement.
 
-
 🎯 Goal:
 
 Simplify social media management by combining content creation, scheduling, publishing, and analytics into a unified workflow.
