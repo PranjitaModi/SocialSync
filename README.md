@@ -20,19 +20,6 @@
 
 ---
 
-# 📸 Preview
-
-> Add screenshots or GIFs here.
-
-| Dashboard | AI Composer |
-|-----------|-------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-| Scheduler | Accounts |
-|------------|-----------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
----
 
 # 🛠 Tech Stack
 
