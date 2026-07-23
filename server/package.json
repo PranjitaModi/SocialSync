@@ -2,11 +2,10 @@
   "name": "server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "start": "tsx server.ts",
-    "server": "nodemon --exec tsx server.ts",
-    "build": "tsc"
+    "start": "node server.js",
+    "server": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
@@ -27,15 +26,6 @@
     "node-cron": "^4.2.1"
   },
   "devDependencies": {
-    "@types/bcrypt": "^6.0.0",
-    "@types/cors": "^2.8.19",
-    "@types/express": "^5.0.6",
-    "@types/jsonwebtoken": "^9.0.10",
-    "@types/multer": "^2.1.0",
-    "@types/node": "^25.9.1",
-    "nodemon": "^3.1.14",
-    "ts-node": "^10.9.2",
-    "tsx": "^4.22.3",
-    "typescript": "^6.0.3"
+    "nodemon": "^3.1.14"
   }
 }
