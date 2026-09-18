@@ -32,7 +32,6 @@
 - React Router DOM
 - Axios
 - React Hot Toast
-- hbsgyhb
 
 ## Backend
 
