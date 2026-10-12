@@ -9,3 +9,4 @@ accountRouter.post('/', protect, addAccount);
 accountRouter.delete('/:id', protect, disconnectAccount);
 
 export default accountRouter;
+;
