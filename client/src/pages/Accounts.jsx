@@ -28,7 +28,7 @@ const Accounts = () => {
       toast.error(error?.response?.data?.message || error?.message || "Failed to load accounts");
     }
   }
-
+]
   useEffect(()=>{
 
     const params = new URLSearchParams(window.location.search);
