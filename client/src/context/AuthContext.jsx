@@ -21,7 +21,7 @@ export const AuthProvider = ({children}) => {
 
         setIsLoading(false)
     },[])
-
+)
     const login = (userData, newToken) => {
         setUser(userData)
         setToken(newToken)
