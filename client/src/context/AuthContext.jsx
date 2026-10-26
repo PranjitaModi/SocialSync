@@ -18,7 +18,7 @@ export const AuthProvider = ({children}) => {
             setToken(storedToken)
             api.defaults.headers.common["Authorization"] = `Bearer ${storedToken}`;
         }
-
+    
         setIsLoading(false)
     },[])
     const login = (userData, newToken) => {
